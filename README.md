@@ -1,6 +1,6 @@
 ### hi
 i'm riley.  
-i'm a 19 year old enby that writes c/c++.  
+i'm a 20 year old enby that writes c/c++.  
   
 emails:  
 `admin@jvnkbin.moe`  
