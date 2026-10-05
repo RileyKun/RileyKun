@@ -1,4 +1,5 @@
 ### hi
-i'm pixy. i'm a girl that writes a lot of c++ and loves source engine.
+a gal that works with the source engine alot!
+c++ and js are my expertise.
 
 email me: `admin@jvnkbin.moe`
